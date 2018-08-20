@@ -6,7 +6,7 @@ import threading
 import time
 import queue
 
-#import ctypes
+#import ctypes1
 class communication():
     def __init__(self,):
         self.conn=False
